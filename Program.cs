@@ -21,7 +21,6 @@
                 Console.WriteLine("yeni sayı:" + yeni);
                 kullanılan.Add(yeni);
             }
-            Console.ReadKey();
         }
     }
 }
